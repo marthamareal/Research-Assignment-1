@@ -1,0 +1,27 @@
+\documentclass[a4paper,11pt]{article}
+\begin{document}
+\title{Improving Heatlth Services In Makerere University}
+\author{NAGGINDA MARTHA 15/U/9170/PS 215013711}
+\date{\today}
+\maketitle
+\tableofcontents
+\section{Abstract}
+\paragraph{
+The objective of this project was to improve on the healthy status in Makerere University. The project involved the Students and Staff members being sensitized on how to have a better health. This was done through conducting different and several meetings were they were being taught on how to improve on their health. Also various methods were used to gather information which included distribution of questionnaires, observation of users and study of the existing healthy services offered by the university. Several methods of having a good health were taught to the members. 
+}
+\section{Introduction}
+\paragraph{In Makerere University there has been several healthy services offered   especially to then students. For example Makerere University Hospital has been diagnosing and treating students who managed to register.
+Today Students health in makerere re university is not at its best .This report examines the issue of improving on students healthy status as well as the staff in makerere university.
+ }
+\section{Methods}
+\paragraph{This research was conducted by questionnaire and interviews by the students and staff members.  A total of around 10,000 questionnaires were distributed to students in different collages.  The questionnaire used brief questions of how they have been using the existing healthy services provided by the university. Survey collection boxes were located in every branch for a four week period. 
+ }
+\section{Results}
+\paragraph{From the research made, 40\% of the students and staff, members were benefiting from the existing healthy services.
+The sensitization lessons which were conducted helped students and staff be aware of their hygiene and as well as the campus. 
+}
+
+\section{Conclusion}
+\paragraph{Improving of health services in Makerere University is essential and they should be improved in order to avoid inconveniences which might result to missing of exams by students and Lectures by lecturers. 
+}
+\end{document}
